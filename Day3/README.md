@@ -30,7 +30,9 @@ Output: [true,false,true]
 
 Constraints:
 
-n == candies.length
-2 <= n <= 100
-1 <= candies[i] <= 100
-1 <= extraCandies <= 50
+- n == candies.length
+- 2 <= n <= 100
+- 1 <= candies[i] <= 100
+- 1 <= extraCandies <= 50
+
+url = https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75
