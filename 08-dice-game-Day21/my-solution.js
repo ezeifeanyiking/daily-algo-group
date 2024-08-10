@@ -23,3 +23,5 @@ function diceGameSimulation(numSimulations) {
 }
 
 console.log(diceGameSimulation(5));
+
+//This is supposed to be for day 21
